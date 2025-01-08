@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Full-Stack Data Science**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React, Node.js, and Python**.
-- 📫 How to reach me: [shakti.rajbhar@example.com](mailto:shakti.rajbhar@gmail.com)
+- 📫 How to reach me: [shakti.rajbhar@gmail.com](mailto:shakti.rajbhar@gmail.com)
 - ⚡ Fun fact: I love solving puzzles.
 
 ## Skills
