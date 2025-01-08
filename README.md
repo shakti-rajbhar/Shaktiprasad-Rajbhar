@@ -1,14 +1,14 @@
-# Hi there, I'm Shakti Rajbhar 👋
+# Hi there, I'm Shaktiprasad Rajbhar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shakti-rajbhar&color=blue)
 
 ## About Me
 
-- 🌱 I’m currently learning **Full-Stack Web Development**.
+- 🌱 I’m currently learning **Full-Stack Data Science**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React, Node.js, and Python**.
-- 📫 How to reach me: [shakti.rajbhar@example.com](mailto:shakti.rajbhar@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 📫 How to reach me: [shakti.rajbhar@example.com](mailto:shakti.rajbhar@gmail.com)
+- ⚡ Fun fact: I love solving puzzles.
 
 ## Skills
 
