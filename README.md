@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Full-Stack Data Science**.
+- 🌱 I’m currently learning **Full-Stack Data Science & MERN**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React, Node.js, and Python**.
 - 📫 How to reach me: [shakti.rajbhar@gmail.com](mailto:shakti.rajbhar@gmail.com)
@@ -46,5 +46,4 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shakti-rajbhar)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/shakti_rajbhar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shaktiprasad-rajbhar/) 
